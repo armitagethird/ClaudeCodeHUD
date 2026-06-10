@@ -1,0 +1,2 @@
+# Build artifacts (binário compilado). Cargo.lock É versionado (crate binária).
+/target
